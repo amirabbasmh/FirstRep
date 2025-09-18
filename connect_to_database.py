@@ -115,3 +115,4 @@ user.save()
 
 # user = User(username="mohammadnpak", passwrod="232342",first_name="saddsgf",last_name="sfsdfas")
 # user.save()
+print("hello")
